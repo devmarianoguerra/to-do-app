@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "title": " Go to the dentist",
+      "description": "Schedule an appointment with the dentist",
+      "check": false,
+      "id": 1
+    },
+    {
+      "title": "Fix air-conditioning",
+      "description": "Fix the car air conditioning ",
+      "check": false,
+      "id": 2
+    },
+    {
+      "title": " Buy new clothes",
+      "description": "Buy new shirts and shoes",
+      "check": false,
+      "id": 3
+    },
+    {
+      "title": "random task",
+      "description": "lorem ipsum to fill this space",
+      "check": false,
+      "id": 4
+    }
+  ]
+}
